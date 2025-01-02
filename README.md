@@ -10,6 +10,6 @@ python EGH.py \
 	--task_type qa \
 	--model_name /path/to/model \
 	--train_ratio 0.1 \
-    --lambda 0.2 \
+	--lambda 0.2 \
 ```
 
