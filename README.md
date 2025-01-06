@@ -1,4 +1,4 @@
-# EGH
+# Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection
 
 The repo of paper [**Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection**](https://aclanthology.org/2024.emnlp-main.116/)
 
@@ -13,3 +13,16 @@ python EGH.py \
 	--lambda 0.2 \
 ```
 
+## Citation
+
+If this work is helpful, please kindly cite as:
+
+```bibtex
+@inproceedings{hu2024embedding,
+  title={Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection},
+  author={Hu, Xiaomeng and Zhang, Yiming and Peng, Ru and Zhang, Haozhe and Wu, Chenwei and Chen, Gang and Zhao, Junbo},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={1950--1959},
+  year={2024}
+}
+```
