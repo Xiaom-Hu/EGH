@@ -1,4 +1,4 @@
-# EGH
+# Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection
 
 The repo of paper [**Embedding and Gradient Say Wrong: A White-Box Method for Hallucination Detection**](https://aclanthology.org/2024.emnlp-main.116/)
 
